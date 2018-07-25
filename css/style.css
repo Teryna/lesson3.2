@@ -1,0 +1,22 @@
+body {
+    //max-width: 800px;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+div {
+    margin-bottom: 50px;
+}
+
+th, td {
+    border: 1px solid grey;
+    padding: 10px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+li {
+    line-height: 12px;
+}
